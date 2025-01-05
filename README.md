@@ -22,18 +22,22 @@ The **Home Security System Manager** is a mobile application developed in Java f
 
 ## 🤖 Arduino Integration
 
-The app is paired with Arduino hardware to simulate real-world interactions. It controls:
-- 🔒 Door lock mechanisms using servos.
-- 💡 Light systems using LEDs.
-- 🕵️ Motion detection using PIR sensors.
-- 🚨 Alarm systems using buzzers.
+The app is paired with Arduino hardware to simulate real-world interactions. It integrates the following components:
 
-Arduino connects with Firebase to synchronize app commands and hardware responses in real time.
+### 🔧 Hardware Components
+1. **Arduino Uno**: Microcontroller for handling commands and interfacing with hardware components.
+2. **ESP32 WiFi Module**: Provides WiFi connectivity for real-time synchronization with Firebase.
+3. **Servo Motors**: Used for controlling door lock mechanisms. 🔒
+4. **LED Lights**: Simulate household lighting systems. 💡
+5. **PIR Sensors**: Detect motion for sending alerts. 🕵️
+6. **Buzzers**: Represent alarm systems for security breaches. 🚨 
 
 ### 🛠️ How It Works
 1. The app sends user commands to Firebase.
-2. The Arduino reads commands from Firebase and performs the requested action.
+2. The ESP32 or Arduino Uno reads commands from Firebase and performs the requested action.
 3. Actions include turning on/off devices, setting timers, or sending motion alerts.
+
+
 
 ## 📸 Screenshots
 
