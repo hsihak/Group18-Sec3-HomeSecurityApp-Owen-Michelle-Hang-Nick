@@ -36,11 +36,31 @@ Arduino connects with Firebase to synchronize app commands and hardware response
 3. Actions include turning on/off devices, setting timers, or sending motion alerts.
 
 ## 📸 Screenshots
-_Add screenshots showcasing:_
+
 1. Dashboard displaying all connected systems.
+
+![image](https://github.com/user-attachments/assets/a49620a7-27f0-4ab7-85dc-3c54b5730e0a)
+   
 2. Individual system management (e.g., door locks, lights).
-3. Notifications and alerts for motion detection.
-4. Arduino setup and interactions with app controls.
+
+![image](https://github.com/user-attachments/assets/4576969e-b54d-45cd-86cb-cb9bafbf6ea6)
+
+![image](https://github.com/user-attachments/assets/5ef34ea0-4ab1-4d2f-bc50-ea185cd1b4d2)
+
+![image](https://github.com/user-attachments/assets/32f9c004-8c2b-425c-8ea6-36e576eec217)
+   
+5. Notifications and alerts for motion detection.
+
+![image](https://github.com/user-attachments/assets/384099cf-75d4-4f12-a22a-f5dc5460460d)
+   
+7. Arduino setup and interactions with app controls.
+
+![image](https://github.com/user-attachments/assets/c2870332-0633-4e17-bd75-7fed5f0a2c53)
+
+[![SetUP App and Arduino Integration Test](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutube.com%2Fshorts%2FwTLfqtxnBjY)](https://youtube.com/shorts/wTLfqtxnBjY)
+
+
+
 
 ## 🖌️ Wireframes
 View the application's wireframe design on Figma:  
